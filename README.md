@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yukikato6591
-- 👀 I’m interested in Bioinformatics 
+- 👀 I’m interested in Biophysics　Bioinformatics 
 - 🌱 I’m currently learning python and latex
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
